@@ -35,6 +35,8 @@ html, body, .reveal div, .reveal span, .reveal applet, .reveal object, .reveal i
 /*********************************************
  * GLOBAL STYLES
  *********************************************/
+
+
 html,
 body {
   width: 100%;
@@ -1553,3 +1555,10 @@ body {
 
 .zoomed .reveal .roll span:after {
   visibility: hidden; }
+
+.image-float {
+     float: left;
+     position: relative;
+     top: 0;
+     left: 0;
+  }
